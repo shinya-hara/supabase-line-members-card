@@ -26,9 +26,6 @@ importers:
       '@line/liff':
         specifier: ^2.23.1
         version: 2.23.1
-      '@repo/ui':
-        specifier: workspace:*
-        version: link:../../packages/ui
       next:
         specifier: ^14.0.4
         version: 14.0.4(react-dom@18.2.0)(react@18.2.0)
